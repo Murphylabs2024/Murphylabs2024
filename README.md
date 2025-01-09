@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to MurphyLabs</h1>
 <h3 align="center">Trusted Passive Income, Murphy Provider</h3>
-<a href="hhttps://x.com/murphy_node" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1765106587629502464/MosAN_Zv_400x400.jpg" alt="Bash" width="150" height="110">
+<a align="center" href="hhttps://x.com/murphy_node" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1765106587629502464/MosAN_Zv_400x400.jpg" alt="Bash" width="150" height="100">
 </a> 
 <h3 align="center">Connect with Murphy</h3>
 <p align="center">
