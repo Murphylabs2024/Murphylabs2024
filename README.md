@@ -27,10 +27,10 @@ A premier Proof-of-Stake validation and staking services. We operate across 20+ 
 <p align="left"> <a href="https://aura.network/" target="_blank" rel="noreferrer"> <img src="https://s3.coinmarketcap.com/static-gravity/image/a2faa19b8981440f94b5b37d7ac1cab1.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.swisstronik.com/" target="_blank" rel="noreferrer"> <img src="https://docs.swisstronik.com/~gitbook/image?url=https%3A%2F%2F3739409932-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fvh80ue5X9nMskPC6XjLd%252Ficon%252FX6bEA7vTEnVNw3yjK6pU%252F5.png%3Falt%3Dmedia%26token%3Db4b9c13a-8c48-4d33-a478-2aee52f45b8c&width=32&dpr=4&quality=100&sign=11e3afab&sv=2" alt="bash" width="40" height="40"/> </a>
 <a href="https://selfchain.xyz/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/32854.png" alt="bash" width="40" height="40"/> </a>
-<a href="https://namada.net/" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://namada.net/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/namada1735040641320.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://0g.ai/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/0_g_labs1711467106027.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://dymension.xyz/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/dymension1707240686361.png" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.mantrachain.io/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/mantra1710835985212.png" alt="bash" width="40" height="40"/> </a></p>
-<a href="https://wardenprotocol.org/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/warden_protocol1726495564214.png" alt="bash" width="40" height="40"/> </a></p>
-<a href="https://side.one/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/side_protocol1732627863083.png" alt="bash" width="40" height="40"/> </a></p>
+<a href="https://www.mantrachain.io/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/mantra1710835985212.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://wardenprotocol.org/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/warden_protocol1726495564214.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://side.one/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/side_protocol1732627863083.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://fiammalabs.io/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/fiamma1725967588056.png" alt="bash" width="40" height="40"/> </a></p>
