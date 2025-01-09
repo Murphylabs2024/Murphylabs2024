@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Welcome to MurphyLabs</h1>
+<h3 align="center">Trusted Passive Income, Murphy Provider</h3>
 
-<!--
-**Murphylabs2024/Murphylabs2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="hhttps://x.com/murphy_node" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="Bash" width="40" height="40">
+  </a>  
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Why choose Murphy?</h3>
+<p align="left">
+A premier Proof-of-Stake validation and staking services. We operate across 20+ blockchain networks using cutting-edge hardware, actively contribute to Cosmos Ecosystem open-source initiatives, and deliver top-tier data analytics and development tools.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Most popular validator collections/n
+We have 20+ works of popular validators around the world.</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
